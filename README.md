@@ -12,24 +12,24 @@ Fyyur is a musical venue and artist booking site that facilitates the discovery 
 
 ### Main Files: Project Structure
 
-├── README.md
-├── app.py *** the main driver of the app. 
-├── models.py *** SQLAlchemy database models.
-├── config.py *** Database URLs, CSRF generation, etc
-├── error.log
-├── forms.py *** Your forms
-├── requirements.txt *** The dependencies we need to install with "pip3 install -r requirements.txt"
-├── static
-│   ├── css 
-│   ├── font
-│   ├── ico
-│   ├── img
-│   └── js
-└── templates
-    ├── errors
-    ├── forms
-    ├── layouts
-    └── pages
+-├── README.md
+-├── app.py *** the main driver of the app. 
+-├── models.py *** SQLAlchemy database models.
+-├── config.py *** Database URLs, CSRF generation, etc
+-├── error.log
+-├── forms.py *** Your forms
+-├── requirements.txt *** The dependencies we need to install with "pip3 install -r requirements.txt"
+-├── static
+-│   ├── css 
+-│   ├── font
+-│   ├── ico
+-│   ├── img
+-│   └── js
+-└── templates
+-    ├── errors
+-    ├── forms
+-    ├── layouts
+-    └── pages
 
  ### Overall:
 
