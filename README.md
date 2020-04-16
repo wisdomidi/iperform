@@ -11,7 +11,7 @@ Fyyur is a musical venue and artist booking site that facilitates the discovery 
 - HTML, CSS, and Javascript with Bootstrap 3 for the front end
 
 ### Main Files: Project Structure
-
+```
 -├── README.md
 -├── app.py *** the main driver of the app. 
 -├── models.py *** SQLAlchemy database models.
@@ -30,7 +30,7 @@ Fyyur is a musical venue and artist booking site that facilitates the discovery 
 -    ├── forms
 -    ├── layouts
 -    └── pages
-
+```
  ### Overall:
 
 Models are located in the MODELS models.py.
