@@ -18,7 +18,6 @@ from flask_moment import Moment
 from flask_sqlalchemy import SQLAlchemy
 from flask_migrate import Migrate
 from flask_wtf import Form
-from flask_script import Manager
 
 import logging
 from logging import Formatter, FileHandler
