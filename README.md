@@ -10,7 +10,7 @@ Fyyur is a musical venue and artist booking site that facilitates the discovery 
 - Flask-Migrate for creating and running schema migrations
 - HTML, CSS, and Javascript with Bootstrap 3 for the front end
 
-### Main Files: Project Structure
+### Main Files: Project Structure 
 ```
 -├── README.md
 -├── app.py *** the main driver of the app. 
