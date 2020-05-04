@@ -6,7 +6,7 @@ Fyyur is a musical venue and artist booking site that facilitates the discovery 
 
 - SQLAlchemy ORM ORM library
 - PostgreSQL database
-- Python3 and Flask server language and server framework, respectively
+- Python3 and Flask server language and server framework, respectively 
 - Flask-Migrate for creating and running schema migrations
 - HTML, CSS, and Javascript with Bootstrap 3 for the front end
 
