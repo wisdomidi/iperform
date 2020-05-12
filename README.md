@@ -74,6 +74,4 @@ $ FLASK_APP=app.py FLASK_DEBUG=true flask run
 Navigate to Home page http://localhost:5000
 
 
-Starter code is from Udacity full stack nano degree program
-
-iperform
+https://iperform.herokuapp.com/
