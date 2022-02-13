@@ -140,10 +140,8 @@ def show_venue(venue_id):
 
   return render_template('pages/show_venue.html', venue=data)
 
-
 #  Create Venue
 #  ----------------------------------------------------------------
-
 
 @app.route('/venues/create', methods=['GET'])
 def create_venue_form():
