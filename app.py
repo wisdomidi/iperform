@@ -395,8 +395,6 @@ def create_show_submission():
       flash('Show was successfully listed!')
   return render_template('pages/home.html')
 
-
-
 @app.errorhandler(404)
 def not_found_error(error):
     return render_template('errors/404.html'), 404
